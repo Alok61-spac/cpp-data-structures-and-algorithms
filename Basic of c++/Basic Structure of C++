@@ -40,11 +40,11 @@ iii)What is std?
  Most of the standard C++ library features, such as cout, cin, string, and endl, are inside the std namespace.
 
 There are two common ways to use them:
-i)
+a)
 std::cout << "Hello";
 std::cin >> x;
 
-ii)
+b)
  using namespace std;
 cout << "Hello";
 cin >> x;
