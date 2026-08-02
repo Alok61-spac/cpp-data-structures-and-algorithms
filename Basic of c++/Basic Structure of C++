@@ -1,12 +1,12 @@
-Basic Structure of C++:-
-1. How a C++ Code Works and Its Execution Process?
+Basic of C++
+1.How a C++ Code Execution Process works?
 
-1) Writing the Code –  writes the source code in a file with the .cpp extension.
-2) Preprocessing – The preprocessor handles directives such as #include. 
-3) Compilation – The compiler checks the code for errors and converts it into object code (machine-readable code(.exe file)).
-   it is done by executing (g++ filename.cpp).
+i) Writing the Code –  writes the source code in a file with the .cpp extension.
+ii) Preprocessing – The preprocessor handles directives such as #include. 
+iii) Compilation – The compiler checks the code for errors and converts it into object code (machine-readable code(.exe file)).
+     it is done by executing (g++ filename.cpp).
 
-4) Execution – The operating system runs the executable file, and the program produces the output.
+iv) Execution – The operating system runs the executable file, and the program produces the output.
 
 >> Flow of Execution
 
@@ -20,12 +20,12 @@ Executable File
 ↓
 Program Output
 
-2. About #include, <iostream> and std.
+2.#include, <iostream> and std.
 
->>what is #include?
+i)what is #include?
   #include is preprocessor directive. #include tells the processor to include the contents  of header file before compilation.
 
->> What is <iostream>?
+ii) What is <iostream>?
  <iostream> is a header file in C++ that provides input and output functionality.
 
 It contains:
@@ -33,7 +33,7 @@ It contains:
 * cin<< – Used to take input from the user.
 
 
-### What is std?
+iii)What is std?
 
 "std" stands for Standard Namespace.
 
@@ -43,7 +43,7 @@ There are two common ways to use them:
 i)
 std::cout << "Hello";
 std::cin >> x;
-```
+
 ii)
  using namespace std;
 cout << "Hello";
@@ -52,7 +52,7 @@ cin >> x;
 
 3. Boilerplate Code in C++
 
-*Boilerplate code is the basic template or starting structure of a C++ program. It contains the essential parts required for most programs.
+*Boilerplate code is the basic template or starting structure of a C++ program.
 
 >>Boilerplate structure-
 

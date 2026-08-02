@@ -1,13 +1,12 @@
 1. Variables and Data Types
-Variable>>
+Variable  definition-
 *A variable is a named memory location used to store data. Its value can change during program execution.
 Example:
-
 int age = 18;
 float salary = 25000.50;
 char grade = 'A';
 
-Rules for Naming Variables>>
+Rules for Naming Variables-
  *Must begin with a letter or underscore (_).
  *Cannot start with a number.
  *Cannot contain spaces or special symbols (except _).
@@ -30,7 +29,7 @@ using namespace std;
 
 int main() {
     int age = 18;
-    float height = 5.8;
+    float height = 5.8f;
     char grade = 'A';
 
     cout << age << endl;
@@ -39,9 +38,12 @@ int main() {
 
     return 0;
 }
+output:18
+       5.8
+       A
 
 2. Type Casting
-Definition>>
+Definition-
 *Type casting is the process of converting one data type into another.
 
 Types of Type Casting
