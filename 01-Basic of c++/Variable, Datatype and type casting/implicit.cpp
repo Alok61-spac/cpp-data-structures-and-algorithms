@@ -1,5 +1,5 @@
 //typecasting small datatype into big.
-#include <iostream>;
+#include <iostream>
 using namespace std;
 
 int main(){
