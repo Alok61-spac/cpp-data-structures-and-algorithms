@@ -64,7 +64,8 @@ These operators perform basic mathematical calculations on numerical values.
 |   -       | Subtraction      |  a - b   |
 |   *       | Multiplication   | a * b    |
 |   /       | Division         | a / b    |
-    |%      |Remainder         | a % b    |
+|   %      |Remainder         | a % b    |
+
 **Example:**<br>
 ```cpp
 #include <iostream>
