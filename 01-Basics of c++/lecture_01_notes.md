@@ -138,7 +138,7 @@ Increment and decrement operators are unary operators used to increase or decrea
 int a = 5;<br>
 a++;<br>
 cout << a << endl;<br>
-a- -;<br>
+a--;<br>
 cout << a;<br>
 Output:<br>
 6<br>
