@@ -1,7 +1,3 @@
-//steps for execution
-//1)save file
-// open terminal and write g++ filename.cpp(for compile the code and convert into exicutable file)
-///a.exe(to run exicutable file)
 
 //boilerplate code
 #include <iostream>
