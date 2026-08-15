@@ -1,11 +1,11 @@
 ﻿# Basics of C++
-## 1. How Does the C++ Code Execution Process work?
-i) Writing the Code – write the source code in a file with the .cpp extension.<br>
-ii) Preprocessing – The preprocessor handles directives such as #include.<br>
-iii) Compilation – The compiler checks the code for errors and converts it into object code .<br>
+## 1. How Does The C++ Code Execution Process work?
+i. **Writing the Code:** Write the source code in a file with the .cpp extension.<br>
+ii. **Preprocessing:**The preprocessor handles directives such as #include.<br>
+iii. **Compilation:**The compiler checks the code for errors and converts it into object code .<br>
 This can be done by executing the command: g++ filename.cpp<br>
-iv) Execution – The operating system runs the executable file, and the program produces the output.<br>
-### >> Flow of Execution
+iv. **Execution:** The operating system runs the executable file, and the program produces the output.<br>
+### Flow of Execution
 Source Code (.cpp)
 ↓
 Preprocessor
@@ -15,22 +15,22 @@ Compiler
 Executable File
 ↓
 Program Output
-## 2.#include, <iostream> and std.
-### >>what is #include?
+## 2.#include,iostream and std.
+### definition of #include:
 \#include is preprocessor directive. It tells the processor to include the contents of header file before compilation.
-### >>What is \<iostream>?
-<iostream> is a header file in C++ that provides input and output functionality.
-### It contains:
-\* cout<< – Used to display output on the screen.
-\* cin>> – Used to take input from the user.
-### >>What is std?
+### definition of iostream: 
+iostream is a header file in C++ that provides input and output functionality.
+### iostream functions:
+\* cout<<: Used to display output on the screen.
+\* cin>>: Used to take input from the user.
+### definition of std:
 "std" stands for standard namespace.
-Most of the standard C++ library features, such as cout, cin, string, and endl, are inside the std namespace.
+Most of the standard C++ library features such as **cout, cin, string, endl,etc** are inside the std namespace.
 ### There are two common ways to use them:
-i)
+i.
 std::cout << "Hello";<br>
 std::cin >> x;<br>
-ii)
+ii.
 using namespace std;<br>
 cout << "Hello";<br>
 cin >> x;<br>
@@ -58,13 +58,13 @@ Operators are special symbols used to perform operations on variables and values
 ### 1\. Arithmetic Operators
 **Definition:**
 These operators perform basic mathematical calculations on numerical values.
-| Operator  |   Meaning       |Example   |
+| Operator  |   Meaning        |Example   |
 | - | - | -|
-|   +       | Addition         |   a + b  |
-|   -       | Subtraction      |  a - b   |
-|   *       | Multiplication   | a * b    |
-|   /       | Division         | a / b    |
-|   %      |Remainder         | a % b    |
+|   +       | Addition         |   a + b |
+|   -       | Subtraction      |   a - b |
+|   *       | Multiplication   |   a * b |
+|   /       | Division         | a / b   |
+|   %       |Remainder         | a % b   |
 
 **Example:**<br>
 ```cpp
