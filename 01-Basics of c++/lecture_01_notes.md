@@ -155,7 +155,7 @@ variable is a named memory location **used to store data**. Its value can change
 age = 18;<br>
 grade = 'A';<br>
 **Explanation:** age and grade are variable.
-### Rules for Naming Variables-
+### Rules for naming to variables->
 -Cannot start with a number. salary= 25000.50;<br>
 -Must begin with a letter or underscore (\_).<Br>
 -Cannot contain spaces or special symbols (except \_).<br>
