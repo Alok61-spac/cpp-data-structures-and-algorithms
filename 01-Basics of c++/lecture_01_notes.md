@@ -18,7 +18,7 @@ Program Output
 ## 2.#include, <iostream> and std.
 ### >>what is #include?
 \#include is preprocessor directive. It tells the processor to include the contents of header file before compilation.
-### >>What is <iostream>?
+### >>What is \<iostream>?
 <iostream> is a header file in C++ that provides input and output functionality.
 ### It contains:
 \* cout<< – Used to display output on the screen.
