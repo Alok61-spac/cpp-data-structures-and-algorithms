@@ -59,7 +59,7 @@ Operators are special symbols used to perform operations on variables and values
 **Definition:**
 These operators perform basic mathematical calculations on numerical values.
 | Operator  |   Meaning        |Example   |
-| - | - | -|
+| ---| --- | --|
 |   +       | Addition         |   a + b |
 |   -       | Subtraction      |   a - b |
 |   *       | Multiplication   |   a * b |
