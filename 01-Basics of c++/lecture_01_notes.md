@@ -150,17 +150,18 @@ Output:<br>
 ---
 ## chapter 2:Variables and Data Types
 **definition of variable:**<br>
-A variable is a named memory location used to store data. Its value can change during program execution.
+variable is a named memory location **used to store data**. Its value can change during program execution.
 **Example:**<br>
 age = 18;<br>
-grade = 'A';
+grade = 'A';<br>
+**Explanation:**age and grade are variable.
 ### Rules for Naming Variables-
 -Cannot start with a number. salary= 25000.50;<br>
 -Must begin with a letter or underscore (\_).<Br>
 -Cannot contain spaces or special symbols (except \_).<br>
 -Keywords like int, float, if cannot be used as variable names.<br>
 -Variable names are case-sensitive (Age and age are different).<br>
-### Data Types in C++>>
+### Data Types in C++
 **Definition:**<br>
 A data type specifies the type of data that a variable can store. It also determines how much memory is typically needed to store that data.
 | Data Type| Description |Example| storage size|
