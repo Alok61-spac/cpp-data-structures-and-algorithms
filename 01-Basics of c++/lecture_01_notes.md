@@ -91,6 +91,7 @@ These operators compare two values and return a Boolean value: true or false. Wh
 | <          |Less than       |
 | >=         |Greater than or equal to  |
 | <=         |Less than or equal to     |
+
 **Example:**
 int a = 10, b = 20;<br>
 cout << (a < b);<br>
