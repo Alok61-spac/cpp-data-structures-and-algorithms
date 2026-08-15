@@ -6,7 +6,7 @@ iii. **Compilation:** The compiler checks the code for errors and converts it in
                       This can be done by executing the command: g++ filename.cpp<br>
 iv. **Linker:** The linker connects your compiled program with the required library code and creates the final executable file.<br>
 v. **Execution:** The operating system runs the executable file, and the program produces the output.<br>
-### >> Flow Of Execution
+###  Flow Of Execution
 Source Code (.cpp)<br>
 ↓<br>
 Preprocessor<br>
@@ -23,7 +23,7 @@ Program Output<br>
 \#include is a preprocessor directive. It tells the processor to include the contents of header file before compilation.
 ### Definition of iostream
 iostream is a header file in C++ that provides input and output functionality.
-### 2 major Functions in iostream
+### Two major Functions in iostream
 \* cout<< – Used to display output on the screen.
 \* cin>> – Used to take input from the user.
 ### Definition of std
@@ -37,9 +37,9 @@ ii)
 using namespace std;<br>
 cout << "Hello";<br>
 cin >> x;<br>
-### 3\. Boilerplate Code in C++
+## 3\. Boilerplate Code in C++
 \*Boilerplate code is the basic template or starting structure of a C++ program.
-### >>Boilerplate Structure<br>
+### Boilerplate Structure<br>
 \#include <iostream><br>
 using namespace std;<br>
 
