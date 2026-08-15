@@ -16,27 +16,27 @@ Executable File<br>
 ↓<br>
 Program Output
 ## 2.\#include, iostream and std.
-### definition of #include:
+### Definition of #include
 \#include is preprocessor directive. It tells the processor to include the contents of header file before compilation.
-### definition of iostream: 
+### Definition of iostream 
 iostream is a header file in C++ that provides input and output functionality.
-### iostream functions:
-\* cout<<: Used to display output on the screen.
-\* cin>>: Used to take input from the user.
-### definition of std:
+### iostream functions
+ **cout<<:** used to display output on the screen.
+ **cin>>:** u sed to take input from the user.
+### Definition of std
 "std" stands for standard namespace.
 Most of the standard C++ library features such as **cout, cin, string, endl,etc** are inside the std namespace.
-### There are two common ways to use them:
+### Two common ways to use std
 i.
-std::cout << "Hello";<br>
-std::cin >> x;<br>
+ std::cout<<"Hello";<br>
+ std::cin>>x;<br>
 ii.
-using namespace std;<br>
-cout << "Hello";<br>
-cin >> x;<br>
+  using namespace std;<br>
+  cout << "Hello";<br>
+  cin >> x;<br>
 ### 3\. Boilerplate Code in C++
 \*Boilerplate code is the basic template or starting structure of a C++ program.
-### >>Boilerplate Structure-<br>
+### Boilerplate code structure<br>
 \#include <iostream><br>
 using namespace std;<br>
 
@@ -51,7 +51,7 @@ return 0;<br>
 \* return 0; – Indicates that the program finished successfully.<br>
 
 ---
-# 1)Operators
+# chapter 1:Operators
 **operator Definition:**
 Operators are special symbols used to perform operations on variables and values.
 ## Types of Operators in C++
@@ -148,7 +148,7 @@ Output:<br>
 ### 6.Bitwise Operators
 
 ---
-## 1\. Variables and Data Types
+## chapter 2:Variables and Data Types
 **definition of variable:**<br>
 A variable is a named memory location used to store data. Its value can change during program execution.
 **Example:**<br>
