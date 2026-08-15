@@ -48,7 +48,7 @@ code<br>
 return 0;<br>
 }<br>
 \* **#include <iostream>->** Includes the input/output library.<br>
-\* **using namespace std;->**  Allows the use of standard library names without writing std:: every time.<br>
+\* **using namespace std->**  Allows the use of standard library names without writing std:: every time.<br>
 \* **int main()->** The main function where program execution begins.<br>
 \* **{ }->** Curly braces define the body of the function.<br>
 \* **return 0;->** Indicates that the program finished successfully.<br>
