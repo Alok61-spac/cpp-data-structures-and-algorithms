@@ -1,8 +1,8 @@
 ﻿# Basics of C++
 ## 1. How Does The C++ Code Execution Process work?
 i. **Writing the Code:** Write the source code in a file with the .cpp extension.<br>
-ii. **Preprocessing:**The preprocessor handles directives such as #include.<br>
-iii. **Compilation:**The compiler checks the code for errors and converts it into object code .<br>
+ii.**Preprocessing:** The preprocessor handles directives such as #include.<br>
+iii. **Compilation:** The compiler checks the code for errors and converts it into object code .<br>
 This can be done by executing the command: g++ filename.cpp<br>
 iv. **Execution:** The operating system runs the executable file, and the program produces the output.<br>
 ### Flow of Execution
