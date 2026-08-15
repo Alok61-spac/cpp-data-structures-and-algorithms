@@ -6,18 +6,18 @@ iii. **Compilation:** The compiler checks the code for errors and converts it in
                       This can be done by executing the command: g++ filename.cpp<br>
 iv. **Linker:** The linker connects your compiled program with the required library code and creates the final executable file.<br>
 v. **Execution:** The operating system runs the executable file, and the program produces the output.<br>
-### >> Flow of Execution
-Source Code (.cpp)
-↓
-Preprocessor
-↓
-Compiler
-↓
-Linker
-↓
-Executable File
-↓
-Program Output
+### >> Flow Of Execution
+Source Code (.cpp)<br>
+↓<br>
+Preprocessor<br>
+↓<br>
+Compiler<br>
+↓<br>
+Linker<br>
+↓<br>
+Executable File<br>
+↓<br>
+Program Output<br>
 ## 2.#include, iostream and std.
 ### Definition of #include
 \#include is a preprocessor directive. It tells the processor to include the contents of header file before compilation.
