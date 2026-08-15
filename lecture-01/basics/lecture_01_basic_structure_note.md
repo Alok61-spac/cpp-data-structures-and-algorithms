@@ -23,13 +23,13 @@ Program Output<br>
 \#include is a preprocessor directive. It tells the processor to include the contents of header file before compilation.
 ### Definition of iostream
 iostream is a header file in C++ that provides input and output functionality.
-### Two major Functions in iostream
+#### Two major functions in iostream
 \* cout<< – Used to display output on the screen.
 \* cin>> – Used to take input from the user.
 ### Definition of std
 "std" stands for **standard namespace**.
 Most of the standard C++ library features, such as cout, cin, string, and endl,etc are inside the std namespace.
-### Two common ways to use std:
+#### Two common ways to use std:
 i)
 std::cout << "Hello";<br>
 std::cin >> x;<br>
