@@ -1,21 +1,21 @@
-﻿# Basics of C++
-## 1. Steps of the c++ code execution.
+﻿# Basic concepts of C++
+## 1. Steps of the c++ code execution process
 i. **Writing the Code:** Write the source code in a file with the .cpp extension.<br>
 ii.**Preprocessing:** The preprocessor handles directives such as #include.<br>
 iii. **Compilation:** The compiler checks the code for errors and converts it into object code .<br>
 This can be done by executing the command: g++ filename.cpp<br>
 iv. **Execution:** The operating system runs the executable file, and the program produces the output.<br>
 ### Flow of Execution
-Source Code (.cpp)
-↓
-Preprocessor
-↓
-Compiler
-↓
-Executable File
-↓
+Source Code (.cpp)<br>
+↓<br>
+Preprocessor<br>
+↓<br>
+Compiler<br>
+↓<br>
+Executable File<br>
+↓<br>
 Program Output
-## 2.#include,iostream and std.
+## 2.\#include, iostream and std.
 ### definition of #include:
 \#include is preprocessor directive. It tells the processor to include the contents of header file before compilation.
 ### definition of iostream: 
