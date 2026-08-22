@@ -1,5 +1,5 @@
 # Concept operators
-**Definition of operator:**
+**Definition of operator**<br>
 Operators are special symbols used to perform operations on variables and values.
 ## Types of Operators in C++
 ### 1\. Arithmetic Operators
