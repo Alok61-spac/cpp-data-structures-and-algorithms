@@ -1,4 +1,4 @@
-# Concept of operator
+# Concept of operators
 **Definition of operator**<br>
 Operators are special symbols used to perform operations on variables and values.
 ## Types of Operators in C++
