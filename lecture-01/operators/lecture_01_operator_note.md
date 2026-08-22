@@ -39,7 +39,7 @@ These operators compare two values and return a Boolean value: true or false. Wh
 | >=         |Greater than or equal to | a >= b   |
 | <=         |Less than or equal to    | a <= b   |
 ---
-**Example:**
+**Example:**<br>
 int a = 10, b = 20;<br>
 cout << (a < b);<br>
 Output:<br>
@@ -53,7 +53,7 @@ These operators combine or reverse conditions.
 | \|\|    | Logical OR| At least one condition must be true.|
 |!        |Logical NOT| Reverses true/false|
 ---
-**Example:**
+**Example:**<br>
 int a = 10, b = 20;<br>
 cout << (a < b && b > 15);<br>
 Output:<br>
