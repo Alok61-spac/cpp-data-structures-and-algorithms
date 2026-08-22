@@ -31,13 +31,14 @@ cout << "Remainder: " << a % b << endl;
 **Definition:**
 These operators compare two values and return a Boolean value: true or false. When printed using cout, true and false are displayed as 1 and 0 by default.
 |Operator    |Meaning                  |Expression|
-|---|---|---|
+|---|---|---
 | ==         |Equal to                 | a == b   |
 | !=         |Not equal to             | a != b   |
 | >          |Greater than             | a > b    |
 | <          |Less than                | a < b    |
 | >=         |Greater than or equal to | a >= b   |
 | <=         |Less than or equal to    | a <= b   |
+
 
 **Example:**
 int a = 10, b = 20;<br>
