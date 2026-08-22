@@ -4,7 +4,7 @@ Conditional statements are used to make decisions in a program. They allow the p
 ### Different Conditional Statements
 #### 1\. if Statement
 Executes a block of code only if the condition is true.
-##### Syntax:
+#### Syntax:
 if (condition) {<br>
     // code<br>
 }
