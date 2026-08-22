@@ -1,4 +1,4 @@
-# 1)Operators
+# 1.Operators
 **Definition of operator:**
 Operators are special symbols used to perform operations on variables and values.
 ## Types of Operators in C++
@@ -38,6 +38,7 @@ These operators compare two values and return a Boolean value: true or false. Wh
 | <          |Less than                | a < b    |
 | >=         |Greater than or equal to | a >= b   |
 | <=         |Less than or equal to    | a <= b   |
+
 **Example:**
 int a = 10, b = 20;<br>
 cout << (a < b);<br>
