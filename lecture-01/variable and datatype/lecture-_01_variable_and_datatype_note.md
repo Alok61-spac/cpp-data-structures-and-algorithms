@@ -1,5 +1,5 @@
 ## 1\. Variables and Data Types
-**Definition of variable:**<br>
+#### Definition of variable<br>
 A variable is a named memory location used to store data. Its value can change during program execution.
 **Example:**<br>
 age = 18;<br>
@@ -11,7 +11,7 @@ grade = 'A';
 -Keywords like int, float, if cannot be used as variable names.<br>
 -Variable names are case-sensitive (Age and age are different).<br>
 ### Data Types in C++>>
-**Definition:**<br>
+#### Definition<br>
 A data type specifies the type of data that a variable can store. It also determines how much memory is typically needed to store that data.
 | Data Type| Description |Example| Storage Size|
 |---|---|---|---|
@@ -40,7 +40,7 @@ Output:<br>
 5.8<br>
 A
 ## 2\. Type Casting
-**Definition-**<br>
+#### Definition<br>
 Type casting is the process of converting one data type into another.
 Types of Type Casting-
 ### i\. Implicit Type Casting (Automatic)
