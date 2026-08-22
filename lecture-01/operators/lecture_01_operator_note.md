@@ -70,7 +70,7 @@ These operators assign values to variables.
 | /= | a /= 2       | Divide and assign|
 | %= | a %= 2       |Modulus and assign|
 
-**Example:**
+**Example**
 int a = 10;<br>
 a += 5;<br>
 cout << a;<br>
@@ -84,7 +84,7 @@ Increment and decrement operators are unary operators used to increase or decrea
 |++       |Increase by 1|
 |--       |Decrease by 1|
 
-**Example:**
+**Example**
 int a = 5;<br>
 a++;<br>
 cout << a << endl;<br>
