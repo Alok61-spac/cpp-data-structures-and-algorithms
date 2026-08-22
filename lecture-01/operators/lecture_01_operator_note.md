@@ -1,9 +1,9 @@
 # Concept of operators
-**Definition of operator**<br>
+#### Definition of operator<br>
 Operators are special symbols used to perform operations on variables and values.
 ## Types of Operator in C++
 ### 1\. Arithmetic Operators
-**Definition**<br>
+#### Definition<br>
 These operators perform basic mathematical calculations on numerical values.
 | Operator  |   Meaning        |Expression|
 | - | - | -|
@@ -28,7 +28,7 @@ cout << "Remainder: " << a % b << endl;
 }
 ```
 ### 2\. Relational (Comparison) Operators
-**Definition**<br>
+#### Definition<br>
 These operators compare two values and return a Boolean value: true or false. When printed using cout, true and false are displayed as 1 and 0 by default.
 |Operator    |Meaning                  |Expression|
 |---|---|---
@@ -45,7 +45,7 @@ cout << (a < b);<br>
 Output:<br>
 1
 ### 3\. Logical Operators
-**Definition**<br>
+#### Definition<br>
 These operators combine or reverse conditions.
 |Operator |name       |meaning|
 |----|----|----|
@@ -59,7 +59,7 @@ cout << (a < b && b > 15);<br>
 Output:<br>
 1
 ### 4\. Assignment Operators
-**Definition**<br>
+#### Definition<br>
 These operators assign values to variables.
 |Operator| Example| Meaning|
 |----|----|----|
@@ -77,7 +77,7 @@ cout << a;<br>
 Output:<br>
 15
 ### 5\. Increment and Decrement (unary) Operators
-**Definition**<br>
+#### Definition<br>
 Increment and decrement operators are unary operators used to increase or decrease the value of a variable by 1.
 | Operator| Meaning
 |---|---
