@@ -92,4 +92,5 @@ Output:<br>
 6<br>
 5
 ### 6.Bitwise Operators
+It is covered in lecture 05.
 

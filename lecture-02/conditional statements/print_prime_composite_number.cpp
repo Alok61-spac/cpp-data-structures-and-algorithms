@@ -13,7 +13,7 @@ int main(){
         cout<<"Error:starting number cannot be greater than last number.";
         return 0;
     }
-    cout<<"Nither prime nor composite:";
+    cout<<"Neither prime nor composite:";
     for(int start = starting_number;start <= last_number;start++){
         if(start <= 1){
             cout<<start<<" ";     

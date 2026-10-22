@@ -7,7 +7,7 @@ int main(){
     cout<<"Enter your number:";
     cin>>number;
     if (number > 0){
-        cout<<"Number is posetive.";
+        cout<<"Number is positive.";
     }
     else if (number < 0){
         cout<<"Number is negative.";
