@@ -7,7 +7,7 @@ int main(){
     int denominator;
     cout<<"Enter Your Numerator: ";
     cin>>numerator;
-    cout<<"Enter Your Denomirator:";
+    cout<<"Enter Your Denominator:";
     cin>>denominator;
     cout<<"Reminder Is: "<<numerator % denominator;
     return 0;
